@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on the **H2Grow Platform**
 
-- 🌱 I’m currently learning **Kubernetes, Go, Rust**
+- 🌱 I’m currently learning **Kubernetes, Go, Rust, ABAP**
 
 - 💬 Ask me about **Nextjs, Reactjs, Kotlin, Microcontroller & Co.**
 
