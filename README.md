@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">A VT Student in Computer Science @SAP from Berlin</h3>
 
-- 🔭 I’m currently working on the H2Grow Platform
+- 🔭 I’m currently working on the **H2Grow Platform**
 
 - 🌱 I’m currently learning **Kubernetes, Go, Rust**
 
