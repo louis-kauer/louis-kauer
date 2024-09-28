@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">A VT Student in Computer Science @SAP from Berlin</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-laky&label=Profile%20views&color=46768b&style=flat" alt="dev-laky" /> </p>
-
-- 🔭 I’m currently working on [H2Grow Platform]((closed source))
+- 🔭 I’m currently working on the H2Grow Platform
 
 - 🌱 I’m currently learning **Kubernetes, Go, Rust**
 
-- 💬 Ask me about **nextjs, reactjs, kotlin, microcontroller & co.**
+- 💬 Ask me about **Nextjs, Reactjs, Kotlin, Microcontroller & Co.**
 
 - 📫 How to reach me **laky.dev@proton.me**
 
