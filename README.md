@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Go, Rust, ABAP**
 
-- 💬 Ask me about **Nextjs, Reactjs, Kotlin, Microcontroller & Co.**
+- 💬 Ask me about **Kotlin, Microcontroller, Nextjs, Reactjs & Co.**
 
 - 📫 How to reach me **laky.dev@proton.me**
 
