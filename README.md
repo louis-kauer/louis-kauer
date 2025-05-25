@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
-<h3 align="center">a VT Student in Computer Science @SAP from Berlin</h3>
+<h3 align="center">a STAR Student in Computer Science @SAP from Berlin</h3>
 
 - 🔭 I’m currently working on the **H2Grow Platform**
 
