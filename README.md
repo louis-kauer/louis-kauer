@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Kotlin, Microcontroller, Nextjs, Reactjs & Co.**
 
-- 📫 How to reach me **laky.dev@proton.me**
+- 📫 How to reach me **louis.kauer@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
