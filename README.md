@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on the **H2Grow Platform**
 
-- 🌱 I’m currently learning **Kubernetes, Go, Rust, and C**
-
-- 💬 Ask me about **Kotlin, Microcontroller, Nextjs, Reactjs & Co.**
+- 🌱 I’m currently learning **Kubernetes, Go, Rust, and C/C++**
 
 - 📫 How to reach me **louis.kauer@proton.me**
 
